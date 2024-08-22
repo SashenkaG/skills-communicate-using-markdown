@@ -1,3 +1,3 @@
 # <h1>Header</h1>
-![Image of someone coding] (https://twtv3.ams3.digitaloceanspaces.com/posts/software-developer-on-php-code.jpeg)
-# <img src="https://twtv3.ams3.digitaloceanspaces.com/posts/software-developer-on-php-code.jpeg" alt="Laptop">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# <img src="https://octodex.github.com/images/yaktocat.png" alt="Yaktocat">
